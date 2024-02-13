@@ -1,0 +1,1 @@
+# shopify_app_search_phrases
